@@ -1,4 +1,15 @@
+# tmp
 *.log
+
+# compiled
 *.pot
 *.pyc
-local_settings.py
+*.pyo
+
+# editor
+*.nja
+
+# not-app
+/cablecontrol/
+/__init__.py
+/manage.py
